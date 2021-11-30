@@ -1,1 +1,4 @@
 # OS_HW_pthread_server_client_key_value
+Server可以產生thread來服務client
+有mutex_lock的功能來防止race condition 
+PUT GET DELETE 各項功能參見hw2-simple-kvstore.pptx
